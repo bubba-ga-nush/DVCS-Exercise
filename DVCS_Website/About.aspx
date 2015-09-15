@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>DVCS Description Page</h3>
-    <p>Use this area to provide additional information.</p>
+    <p>This is the exercise I need to do to get marks and not fail</p>
 </asp:Content>
